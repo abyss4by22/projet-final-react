@@ -13,7 +13,7 @@ export const Navigation = () => {
         </div>
         <ul className="menu d-none d-lg-flex">
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/" >Home</Link>
           </li>
           <li>
             <Link to="/about">About</Link>
